@@ -1,0 +1,24 @@
+Relational databases:
+1. PostgreSQL
+2. MySQL
+3. MariaDB
+4. Microsoft SQL Server
+5. Amazon Aurora
+6. Oracle
+
+1 of each of the NoSQL categories:
+1. Document-Based NoSQL Database - MongoDB
+2. Key-Value Database - Redis
+3. Wide Column-Based Database - Cassandra 
+4. Graph-Based Database - Neo4j
+
+Relational databases vs.NoSQL databases:  
+NoSQL databases don’t require any predefined schema, while Relational DB have a strict, predefined schema.
+
+In-memory databases:
+1. HSQLDB
+2. Apache Derby Database
+
+In-memory databases vs. persistent:
+Main difference is that In-memory DB stores data at RAM memory wich provides faster acces and response within milliseconds.
+While persistent DB or On-disk DB stores data/cache at disk, which means that storage of data probably will be ceaper.
